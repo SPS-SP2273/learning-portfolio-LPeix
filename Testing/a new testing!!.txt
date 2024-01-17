@@ -1,2 +1,2 @@
 python is snake???
-print('hello world)
+print('hello world')
